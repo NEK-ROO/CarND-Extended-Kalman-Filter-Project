@@ -10,7 +10,6 @@ class Tools {
    * Constructor.
    */
   Tools();
-
   /**
    * Destructor.
    */
